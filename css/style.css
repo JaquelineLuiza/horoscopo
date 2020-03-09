@@ -1,0 +1,25 @@
+body{
+    background-color: #FFF5DF;
+    margin: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    color: #60336E;
+}
+footer{
+    color: #60336E;
+    text-align: center;
+    font-weight: bold;
+    
+}
+#secao{
+    margin-top: 2%;
+    background-color: #F7EABD;
+    height: 200px;
+    width: 1150px;
+    color: #666666;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    display: none;
+}
